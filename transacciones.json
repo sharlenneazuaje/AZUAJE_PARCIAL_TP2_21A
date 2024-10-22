@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1,
+    "tipo": "retiro",
+    "monto": 1000,
+    "destinatario": "Juan Perez"
+  },
+  {
+    "id": 3,
+    "tipo": "transferencia",
+    "monto": 2000,
+    "destinatario": "Carlos Martinez"
+  },
+  {
+    "id": 5,
+    "tipo": "deposito",
+    "monto": 1200,
+    "destinatario": "Luis Fernandez"
+  },
+  {
+    "tipo": "deposito",
+    "monto": 2000,
+    "destinatario": "Oriana Melendez",
+    "id": 6
+  },
+  {
+    "tipo": "retiro",
+    "monto": 5000,
+    "destinatario": "Diego Camacho",
+    "id": 7
+  },
+  {
+    "tipo": "deposito",
+    "monto": 6000,
+    "destinatario": "Yoraima Torres",
+    "id": 8
+  }
+]
